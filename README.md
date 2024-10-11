@@ -1,6 +1,5 @@
-# parallel-simulations
-Notebooks and materials for chapter on "Massively Parallel Simulations"
+# Running and Analyzing Massively Parallel Simulations
+Notebooks and materials for our guide "Running and Analyzing Massively Parallel Simulations," a textbook chapter
 
 # Relevant links:
-Draft copy can be found on [Overleaf](https://www.overleaf.com/project/662fc4d1620b06fae4cc81a4)\
-Relevant files and planning can be found on [GDrive](https://drive.google.com/drive/folders/1vXYTghycMbMXcd9hhrR9em8av5kwRiRz?usp=drive_link)
+ChemrXiv Link: TBD
